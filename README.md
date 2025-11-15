@@ -24,16 +24,16 @@ Here's a brief (non-complete) summary of my repos:
 
 # Frontend
 
-- Example Mail App - https://github.com/gsayas/giomail
-- A Reddit Clone - https://github.com/gsayas/reactnd-project-readable
+- Example Mail App using Remix - https://github.com/gsayas/giomail
+- A Reddit Clone using React - https://github.com/gsayas/reactnd-project-readable
 
 # Computer Science
 
 - KD Tree implementation - https://github.com/gsayas/kd-tree
-- 8-puzzle solver using Min Priority Queue - https://github.com/gsayas/puzzle
+- 8-puzzle solver using a Min Priority Queue - https://github.com/gsayas/puzzle
 - Sieve of Eratosthenes using the Actor Model (Concurrency in Java) - https://github.com/gsayas/SieveEratosthenesActors
 
-# DevOps
+# CI/CD
 
 - Deployment of Vue app on Heroku using GHA - https://github.com/gsayas/negotiation
 - Deployment of Spring boot API on Heroku with GHA - https://github.com/gsayas/movielist
