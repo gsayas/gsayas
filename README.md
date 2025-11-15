@@ -17,17 +17,17 @@ Here are some ideas to get you started:
 
 Here's a brief (non-complete) summary of my repos:
 
-# Backend Skills
+# Backend
 
 - Example Typescript & Express backend with basic Testing Strategy - https://github.com/gsayas/example-node-backend
 - Example Backend using Scala & Play Framework - https://github.com/gsayas/nest
 
-# Frontend Skills
+# Frontend
 
 - Example Mail App - https://github.com/gsayas/giomail
 - A Reddit Clone - https://github.com/gsayas/reactnd-project-readable
 
-# Computer Science Skills
+# Computer Science
 
 - KD Tree implementation - https://github.com/gsayas/kd-tree
 - 8-puzzle solver using Min Priority Queue - https://github.com/gsayas/puzzle
