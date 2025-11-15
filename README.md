@@ -14,3 +14,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Here's a brief (non-complete) summary of my repos:
+
+# Backend & Testing Skills (Typescript + Node)
+
+- Example Express backend with basic Testing Strategy - https://github.com/gsayas/example-node-backend
+- Example Backend using Scala & Play Framework - https://github.com/gsayas/nest
+
+# Frontend Skills
+
+- Example Mail App - https://github.com/gsayas/giomail
+- A Reddit Clone - https://github.com/gsayas/reactnd-project-readable
+
+# Computer Science Skills
+
+- KD Tree implementation - https://github.com/gsayas/kd-tree
+- 8-puzzle solver using Min Priority Queue - https://github.com/gsayas/puzzle
+- Sieve of Eratosthenes using the Actor Model (Concurrency in Java) - https://github.com/gsayas/SieveEratosthenesActors
+
+# DevOps
+
+- Deployment of Vue app on Heroku using GHA - https://github.com/gsayas/negotiation
+- Deployment of Spring boot API on Heroku with GHA - https://github.com/gsayas/movielist
+
+# More about me
+
+- 🌱 I’m currently pursuing a Master’s in Artificial Intelligence applied to the Energy & Infrastructure sector.
+
+- 📫 How to reach me: https://www.giocode.me/
