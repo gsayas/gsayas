@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 Here's a brief (non-complete) summary of my repos:
 
-# Backend & Testing Skills (Typescript + Node)
+# Backend Skills
 
-- Example Express backend with basic Testing Strategy - https://github.com/gsayas/example-node-backend
+- Example Typescript & Express backend with basic Testing Strategy - https://github.com/gsayas/example-node-backend
 - Example Backend using Scala & Play Framework - https://github.com/gsayas/nest
 
 # Frontend Skills
