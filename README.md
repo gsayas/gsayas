@@ -19,13 +19,13 @@ Here's a brief (non-complete) summary of my repos:
 
 # Backend
 
-- Example Typescript & Express backend with basic Testing Strategy - https://github.com/gsayas/example-node-backend
-- Example Backend using Scala & Play Framework - https://github.com/gsayas/nest
+- Typescript & Express API with basic Testing Strategy - https://github.com/gsayas/example-node-backend
+- API built with Scala & Play Framework - https://github.com/gsayas/nest
 
 # Frontend
 
-- Example Mail App using Remix - https://github.com/gsayas/giomail
-- A Reddit Clone using React - https://github.com/gsayas/reactnd-project-readable
+- Simple Mail app using Remix - https://github.com/gsayas/giomail
+- A Reddit clone using React - https://github.com/gsayas/reactnd-project-readable
 
 # Computer Science
 
