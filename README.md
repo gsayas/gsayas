@@ -25,7 +25,7 @@ Here's a brief (non-complete) summary of my repos:
 # Frontend
 
 - Simple Mail app using Remix - https://github.com/gsayas/giomail
-- A Reddit clone using React - https://github.com/gsayas/reactnd-project-readable
+- A Reddit clone using React and Redux - https://github.com/gsayas/reactnd-project-readable
 
 # Computer Science
 
