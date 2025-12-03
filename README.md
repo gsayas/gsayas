@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Here's a brief (non-complete) summary of my repos:
+Here's a brief (non-exhaustive) summary of my repos:
 
 # Backend
 
